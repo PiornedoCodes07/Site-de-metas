@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Galindo&display=swap');
 :root {
-    --cor-de-fundo: #ffffff;
-    --verde: #ff00dd;
-    --branco: #000000;
-    --botao-ativo: #770a49;
-    --botao-inativo: rgba(247, 8, 195, 0.5);
-    --texto-fundo: rgba(133, 6, 112, 0.3);
+    --cor-de-fundo: #000000;
+    --verde: #33ff00;
+    --branco: #ffffff;
+    --botao-ativo: #24b600;
+    --botao-inativo: rgba(28, 247, 8, 0.5);
+    --texto-fundo: #24b60084;
 }
 
 body {
